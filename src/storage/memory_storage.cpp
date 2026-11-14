@@ -4,6 +4,7 @@
 
 namespace sdcs {
 
+
 class MemoryLocalStore : public LocalStore {
 public:
     LocalReadResult ReadLocal(const std::string& key) const override {
