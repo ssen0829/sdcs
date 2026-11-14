@@ -33,3 +33,4 @@ std::unique_ptr<ClusterService> MakeClusterService();
 }  // namespace sdcs
 
 #endif  // SDCS_CLUSTER_H_
+
